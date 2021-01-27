@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-19T11:48:32 EST" name="Suite" finished-at="2020-11-19T11:48:32 EST" duration-ms="41">
+    <groups>
+    </groups>
+    <test started-at="2020-11-19T11:48:32 EST" name="Test" finished-at="2020-11-19T11:48:32 EST" duration-ms="41">
+      <class name="qaclickacademy.Mavenjava.RESTAPITest">
+        <test-method signature="PostJira()[pri:0, instance:qaclickacademy.Mavenjava.RESTAPITest@11a9e7c8]" started-at="2020-11-19T11:48:32 EST" name="PostJira" finished-at="2020-11-19T11:48:32 EST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method signature="deltweeter()[pri:0, instance:qaclickacademy.Mavenjava.RESTAPITest@11a9e7c8]" started-at="2020-11-19T11:48:32 EST" name="deltweeter" finished-at="2020-11-19T11:48:32 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deltweeter -->
+      </class> <!-- qaclickacademy.Mavenjava.RESTAPITest -->
+      <class name="qaclickacademy.Mavenjava.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumTest@3901d134]" started-at="2020-11-19T11:48:32 EST" name="BrowserAutomation" finished-at="2020-11-19T11:48:32 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- qaclickacademy.Mavenjava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
